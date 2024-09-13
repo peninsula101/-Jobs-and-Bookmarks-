@@ -1,3 +1,6 @@
+# Hi, I am Sri Charana Sai Kireeti Thallam Venkata. as part of my selection process for YellowSense Technologies, i built this 
+“Jobs” and “Bookmarks” APp using React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
