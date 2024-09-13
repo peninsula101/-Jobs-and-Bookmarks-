@@ -1,4 +1,4 @@
-/* src/components/JobCard.css */
+
 .job-card {
   display: flex;
   flex-direction: column;
@@ -40,7 +40,7 @@
 }
 
 .bookmark-button.bookmarked {
-  color: #f39c12; /* Gold for bookmarked */
+  color: #f39c12; 
 }
 
 .bookmark-button:hover {
