@@ -1,4 +1,4 @@
-// src/components/JobCard.js
+
 import React, { useState } from 'react';
 import './JobCard.css';
 
