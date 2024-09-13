@@ -1,9 +1,9 @@
-// src/components/BottomNavigation.js
+
 
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { FaHome, FaBookmark } from 'react-icons/fa';
-import './BottomNavigation.css'; // Import your CSS for styling
+import './BottomNavigation.css'; 
 
 const BottomNavigation = () => {
     return (
